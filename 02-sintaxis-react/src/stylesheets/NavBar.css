@@ -1,0 +1,23 @@
+.barra{
+    width: 60%;
+    height: 50px;
+    background-color: rgb(142, 148, 147);
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.tituloo{
+    float: left;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.flor{
+    float: left;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.sol{
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
