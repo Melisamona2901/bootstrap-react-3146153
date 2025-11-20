@@ -1,8 +1,90 @@
-.metrika{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: #f0f0f0;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    
+SectionCard.css
+
+
+.tile {
+  height: 120px;
+  border-radius: 6px;
+  color: white;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
 }
+
+.container-padre{
+    display: flex;
+    align-items: center;
+    gap: 95vh;
+}
+.icons-redes{
+    width: 10rem;
+    height: auto;
+
+}
+.tile-big {
+  height: 260px;
+}
+
+
+.tile-wide {
+  height: 120px;
+}
+
+
+.tile-green {
+  background: #7ab29f;
+  height: 125px;
+  width: 125px;
+  margin-left: 124px;
+
+}
+
+.tile-lightgreen {
+  background: #75b7a7;
+  height: 125px;
+  width: 125px;
+  margin-left: 59px;
+}
+
+.tile-blue {
+  background: #4ca0c3;
+  width: auto;
+  height: 17rem;
+}
+
+.tile-pink {
+  background: #cc5b8b;
+   height: 137px;
+  width: 265px;
+}
+
+.tile-red {
+  background: #b95645;
+  margin-top: -9.5rem;
+  height: 137px;
+  width: 261px;
+  margin-left: 125px;
+}
+
+.tile-orange {
+  background: #c5743c;
+  margin-top: -8.5rem;
+  margin-right: -25rem;
+  margin-left: 25rem;
+  height: 120px;
+  width: 125px;
+  margin-left: 405px;
+}
+
+.tile-yellow {
+  background: #d89d3c;
+  margin-top: -8.5rem;
+  margin-right: -25rem;
+  margin-left: 25rem;
+  height: 120px;
+  width: 125px;
+  margin-left: 342px;
+}
+
+
