@@ -1,0 +1,16 @@
+.round-img {
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.15);
+}
+
+p {
+  line-height: 1.6;
+}
+
+hr {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
